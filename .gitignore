@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/Day_3.2.cpp
