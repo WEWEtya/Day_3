@@ -1,5 +1,4 @@
-// Randomize;
-// Rand; Srand; Srand time null; #include <ctime>
+// Randomizer 1000
 
 #include <iostream>
 #include <ctime>
