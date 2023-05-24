@@ -3,16 +3,8 @@ using namespace std;
 
 int main()
 {
-	setlocale(LC_ALL, "Rus");
+	setlocale(LC_ALL, "Ukr");
 
-	const int size = 5;
-
-	int mass[size] = {0, 5, 6, 3, 6};
-
-	for  (int i = 0; i < size; i++)
-	{
-		cout << mass[i] << endl;
-	}
-
+	cout << "Привіт";
 }
 
